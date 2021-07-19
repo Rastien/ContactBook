@@ -1,0 +1,23 @@
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\WPF Contacts.csprojAssemblyReference.cache
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\MainWindow.g.cs
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\Views\BookView.g.cs
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\Views\ContactsItemView.g.cs
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\Views\DetailsView.g.cs
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\App.g.cs
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\WPF Contacts_MarkupCompile.cache
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\WPF Contacts_MarkupCompile.lref
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\bin\Debug\WPF Contacts.exe.config
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\bin\Debug\WPF Contacts.exe
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\bin\Debug\WPF Contacts.pdb
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\App.baml
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\MainWindow.baml
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\Views\BookView.baml
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\Views\ContactsItemView.baml
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\Views\DetailsView.baml
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\WPF Contacts.g.resources
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\WPF_Contacts.Properties.Resources.resources
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\WPF Contacts.csproj.GenerateResource.cache
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\WPF Contacts.csproj.CoreCompileInputs.cache
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\WPF Contacts.exe
+C:\Users\D\source\repos\WPF Contacts\WPF Contacts\obj\Debug\WPF Contacts.pdb
